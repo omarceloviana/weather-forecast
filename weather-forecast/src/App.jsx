@@ -3,7 +3,7 @@ import Temperature from './components/temperature'
 
 function App() {
     return(
-      <div>Temperature</div>
+      <Temperature />
     )
 }
 
